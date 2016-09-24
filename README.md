@@ -13,7 +13,7 @@ Batch scheduler
 * [Platform LSF](https://en.wikipedia.org/wiki/Platform_LSF)
 * [SLURM](http://slurm.schedmd.com/)
 * [Univa Grid Engine](http://www.univa.com/products/)
-* 
+
 
 Distributed scheduler 
 ----------------------
@@ -22,7 +22,7 @@ Distributed scheduler
 * [Mesos](http://mesos.apache.org/)
 * [Spark](http://spark.apache.org/)
 * [YARN](http://hadoop.apache.org/)
-* 
+
 
 Containers orchestration
 ------------------------- 
